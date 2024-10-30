@@ -1,57 +1,53 @@
-# 👋 Hi, I'm Ligia Oliveira!
+# 👋 Olá, eu sou Ligia Oliveira!
 
-### 🌱 Currently Learning React and Python
-I'm a software developer and a curious learner exploring the world of **Python** and **React**. I'm diving into full-stack development, focusing on creating practical and user-friendly applications!
-
----
-
-## 🚀 About Me
-- 🎓 Passionate about learning new technologies and improving my skills.
-- 🔭 Currently working on small projects to level up in React and Python.
-- 🌱 Recently started exploring **Flutter** to build cross-platform mobile apps.
-- 🤔 Open to collaborating on beginner-friendly projects and open-source initiatives.
-- 💼 Aspiring to break into the tech industry with a focus on **full-stack development**.
+### 🌱 Atualmente Aprendendo React e Python
+Sou uma desenvolvedora de software e estudante de Gestão em Tecnologia da Informação, explorando **Python** e **React** com foco no desenvolvimento full-stack para criar aplicações práticas e amigáveis.
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Dart
-- **Frameworks & Libraries:** React, Django, Flutter (beginner)
-- **Tools:** Git, GitHub, VS Code, SQLite, DBeaver
+## 🚀 Sobre Mim
+- 🎓 Estou em busca de oportunidades para aplicar minhas habilidades em projetos desafiadores e inovadores.
+- 🔭 Trabalhando em pequenos projetos para aprimorar meus conhecimentos em **React** e **Python**.
+- 🌱 Recentemente finalizei um projeto full-stack em **Django** com arquitetura MVC, integrando autenticação JWT e criptografia de senhas.
+- 🤝 Aberta a colaborações em projetos iniciantes e contribuições em iniciativas de código aberto.
 
 ---
 
-## 📈 My GitHub Stats
-![Ligia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ligiaboliveira&show_icons=true&theme=radical)
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, Java, JavaScript, Dart
+- **Frameworks & Bibliotecas:** Django, React, Flutter (iniciante), Vue.js
+- **Desenvolvimento Web:** Integração front-end e back-end, APIs RESTful
+- **Bancos de Dados:** MySQL, PostgreSQL, SQLite
+- **Ferramentas:** Git (GitFlow), GitHub, VS Code, DBeaver
+- **Salesforce:** Conhecimento básico em Sales, Service e Marketing Cloud
+- **Computação em Nuvem:** Familiaridade com plataformas de cloud computing
 
 ---
 
-## 🌟 Featured Projects
-Here are a few projects that I've worked on to build and showcase my skills.
+## 📈 Estatísticas do GitHub
 
-### 📘 [EasyMenu](https://github.com/ligiaboliveira/EasyMenu)
-A restaurant ordering app aimed at automating orders and simplifying customer interactions in the dining experience.
-- **Skills**: Dart, SQLite, Flutter
-
-### 🐍 [Project 2: Python Text Analyzer](https://github.com/ligiaboliveira/python-text-analyzer)
-A Python script to analyze text files and provide basic insights.
-- **Skills**: File I/O, Data Processing
+![ligiaboliveira's Stats](https://github-readme-stats.vercel.app/api?username=ligiaboliveira&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![ligiaboliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ligiaboliveira&theme=dracula&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ligiaboliveira&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-## 📫 Connect with Me
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ligiaboliveira/) or shoot me an [email](mailto:your.email@example.com)! Let's connect and explore ideas together!
+## 🌟 Projeto em Destaque
+
+### 📊 [Robometrics](https://github.com/ligiaboliveira/robometrics)
+[![Robometrics](https://github-readme-stats.vercel.app/api/pin/?username=ligiaboliveira&repo=robometrics)](https://github.com/ligiaboliveira/robometrics)
+> Um projeto dedicado ao desenvolvimento de métricas para a equipe de robótica da faculdade.
 
 ---
 
-### 📊 Languages & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ligiaboliveira&layout=compact&theme=radical)
+## 📫 Conecte-se Comigo
+Sinta-se à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/ligiaboliveira/) ou envie um [e-mail](mailto:ligiabdeoliveira@gmail.com) se quiser discutir projetos ou ideias.
 
 ---
 
-### ⚡ Fun Fact
-The word "Python" in programming actually comes from *Monty Python's Flying Circus*, not the snake 🐍!
+### ⚡ Curiosidade
+A palavra "Python" na programação vem de *Monty Python's Flying Circus*, não da cobra 🐍!
 
 ---
 
-Thanks for visiting my profile, and feel free to check out my repositories below 👇
+Obrigado por visitar meu perfil! Explore meus repositórios abaixo 👇
