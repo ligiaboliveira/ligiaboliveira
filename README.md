@@ -41,7 +41,7 @@ Sou uma desenvolvedora de software e estudante de Gestão em Tecnologia da Infor
 ---
 
 ## 📫 Conecte-se Comigo
-Sinta-se à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/ligiaboliveira/) ou envie um [e-mail](mailto:ligiabdeoliveira@gmail.com) se quiser discutir projetos ou ideias.
+Sinta-se à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/ligiaboliveira/) ou envie um [e-mail](mailto:ligiabdeoliveira@gmail.com) (ligiabdeoliveira@gmail.com) se quiser discutir projetos ou ideias.
 
 ---
 
