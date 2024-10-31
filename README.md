@@ -12,6 +12,13 @@ Sou uma desenvolvedora de software e estudante de Gestão em Tecnologia da Infor
 - 🤝 Aberta a colaborações em projetos iniciantes e contribuições em iniciativas de código aberto.
 
 ---
+## 📈 Estatísticas do GitHub
+
+![ligiaboliveira's Stats](https://github-readme-stats.vercel.app/api?username=ligiaboliveira&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![ligiaboliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ligiaboliveira&theme=dracula&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ligiaboliveira&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Python, Java, JavaScript, Dart
@@ -21,14 +28,6 @@ Sou uma desenvolvedora de software e estudante de Gestão em Tecnologia da Infor
 - **Ferramentas:** Git (GitFlow), GitHub, VS Code, DBeaver
 - **Salesforce:** Conhecimento básico em Sales, Service e Marketing Cloud
 - **Computação em Nuvem:** Familiaridade com plataformas de cloud computing
-
----
-
-## 📈 Estatísticas do GitHub
-
-![ligiaboliveira's Stats](https://github-readme-stats.vercel.app/api?username=ligiaboliveira&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![ligiaboliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ligiaboliveira&theme=dracula&hide_border=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ligiaboliveira&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
