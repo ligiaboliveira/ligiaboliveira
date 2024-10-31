@@ -37,6 +37,10 @@ Sou uma desenvolvedora de software e estudante de Gestão em Tecnologia da Infor
 [![FastAPI Payment](https://github-readme-stats.vercel.app/api/pin/?username=ligiaboliveira&repo=fastapi-pagamento)](https://github.com/ligiaboliveira/fastapi-pagamento)
 > Um projeto test utilizando FastAPI
 
+### 📊 [Flask API Biblioteca](https://github.com/ligiaboliveira/flask-api-biblioteca)
+[![Flask API Biblioteca](https://github-readme-stats.vercel.app/api/pin/?username=ligiaboliveira&repo=flask-api-biblioteca)](https://github.com/ligiaboliveira/flask-api-biblioteca)
+> Um projeto test utilizando Flask
+
 ### 📊 [Robometrics](https://github.com/ligiaboliveira/robometrics)
 [![Robometrics](https://github-readme-stats.vercel.app/api/pin/?username=ligiaboliveira&repo=robometrics)](https://github.com/ligiaboliveira/robometrics)
 > Um projeto dedicado ao desenvolvimento de métricas para a equipe de robótica da faculdade.
