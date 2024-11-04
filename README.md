@@ -35,7 +35,6 @@ Sou uma desenvolvedora de software e estudante de Gestão em Tecnologia da Infor
 
 ### 📊 [React library](https://github.com/ligiaboliveira/react-library)
 [![React library](https://github-readme-stats.vercel.app/api/pin/?username=ligiaboliveira&repo=react-library)](https://github.com/ligiaboliveira/react-library)
-> Um projeto test utilizando Flask
 
 ### 📊 [FastAPI Payment](https://github.com/ligiaboliveira/fastapi-pagamento)
 [![FastAPI Payment](https://github-readme-stats.vercel.app/api/pin/?username=ligiaboliveira&repo=fastapi-pagamento)](https://github.com/ligiaboliveira/fastapi-pagamento)
